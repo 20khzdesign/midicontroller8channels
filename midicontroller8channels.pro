@@ -1,4 +1,4 @@
-update=25/10/2017 14:01:55
+update=miércoles, 01 '01e' noviembre '01e' 2017, 21:17:07
 version=1
 last_client=kicad
 [pcbnew]
@@ -27,9 +27,9 @@ NetIExt=net
 version=1
 [eeschema]
 version=1
-LibDir=../../kicad-libs/libraries
+LibDir=libs
 [eeschema/libraries]
-LibName1=C:/cygwin64/home/juan.david/Apps/PCB/kicad-libs/libraries/multiplexers
+LibName1=libs/multiplexor
 LibName2=power
 LibName3=device
 LibName4=switches
@@ -62,4 +62,4 @@ LibName30=opto
 LibName31=atmel
 LibName32=contrib
 LibName33=valves
-LibName34=C:/cygwin64/home/juan.david/Apps/PCB/kicad-libs/libraries/arduino
+LibName34=libs/arduino

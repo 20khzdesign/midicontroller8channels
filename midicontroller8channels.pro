@@ -1,4 +1,4 @@
-update=miércoles, 01 '01e' noviembre '01e' 2017, 21:17:07
+update=domingo, 12 '12e' noviembre '12e' 2017, 10:49:57
 version=1
 last_client=kicad
 [pcbnew]
@@ -63,3 +63,13 @@ LibName31=atmel
 LibName32=contrib
 LibName33=valves
 LibName34=libs/arduino
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60

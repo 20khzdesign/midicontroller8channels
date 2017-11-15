@@ -33,7 +33,6 @@ LIBS:atmel
 LIBS:contrib
 LIBS:valves
 LIBS:arduino
-LIBS:midicontroller8channels-cache
 EELAYER 25 0
 EELAYER END
 $Descr A2 23386 16535
@@ -71,13 +70,13 @@ Text GLabel 4050 9050 0    43   Input ~ 0
 P2_0
 Text GLabel 4050 8850 0    43   Input ~ 0
 P3_0
-Text GLabel 4050 8650 0    43   Input ~ 0
-P4_0
-Text GLabel 4050 8350 0    43   Input ~ 0
-P5_0
-Text GLabel 4050 8450 0    43   Input ~ 0
-P6_0
 Text GLabel 4050 8550 0    43   Input ~ 0
+P4_0
+Text GLabel 4050 8450 0    43   Input ~ 0
+P5_0
+Text GLabel 4050 8350 0    43   Input ~ 0
+P6_0
+Text GLabel 4050 8650 0    43   Input ~ 0
 P7_0
 Text GLabel 10150 8350 2    60   Input ~ 0
 A1
@@ -102,13 +101,13 @@ Text GLabel 8600 9050 0    43   Input ~ 0
 P2_1
 Text GLabel 8600 8850 0    43   Input ~ 0
 P3_1
-Text GLabel 8600 8650 0    43   Input ~ 0
-P4_1
-Text GLabel 8600 8350 0    43   Input ~ 0
-P5_1
-Text GLabel 8600 8450 0    43   Input ~ 0
-P6_1
 Text GLabel 8600 8550 0    43   Input ~ 0
+P4_1
+Text GLabel 8600 8450 0    43   Input ~ 0
+P5_1
+Text GLabel 8600 8350 0    43   Input ~ 0
+P6_1
+Text GLabel 8600 8650 0    43   Input ~ 0
 P7_1
 Text GLabel 15200 8350 2    60   Input ~ 0
 A2
@@ -133,13 +132,13 @@ Text GLabel 13650 9050 0    43   Input ~ 0
 P2_2
 Text GLabel 13650 8850 0    43   Input ~ 0
 P3_2
-Text GLabel 13650 8650 0    43   Input ~ 0
-P4_2
-Text GLabel 13650 8350 0    43   Input ~ 0
-P5_2
-Text GLabel 13650 8450 0    43   Input ~ 0
-P6_2
 Text GLabel 13650 8550 0    43   Input ~ 0
+P4_2
+Text GLabel 13650 8450 0    43   Input ~ 0
+P5_2
+Text GLabel 13650 8350 0    43   Input ~ 0
+P6_2
+Text GLabel 13650 8650 0    43   Input ~ 0
 P7_2
 Text GLabel 20450 8350 2    60   Input ~ 0
 A3
@@ -164,13 +163,13 @@ Text GLabel 18900 9050 0    43   Input ~ 0
 P2_3
 Text GLabel 18900 8850 0    43   Input ~ 0
 P3_3
-Text GLabel 18900 8650 0    43   Input ~ 0
-P4_3
-Text GLabel 18900 8350 0    43   Input ~ 0
-P5_3
-Text GLabel 18900 8450 0    43   Input ~ 0
-P6_3
 Text GLabel 18900 8550 0    43   Input ~ 0
+P4_3
+Text GLabel 18900 8450 0    43   Input ~ 0
+P5_3
+Text GLabel 18900 8350 0    43   Input ~ 0
+P6_3
+Text GLabel 18900 8650 0    43   Input ~ 0
 P7_3
 Wire Wire Line
 	5550 8350 5600 8350
